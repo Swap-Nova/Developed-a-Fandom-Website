@@ -8,7 +8,7 @@
 
 🌠Also, the main webpage code is basic CSS code used to set the background image.
 
-🌠Created Multiple Webpages which includes the 
+🌠Created Multiple Webpages which includes the: 
 
      <i> Powers of the protagonist (Quirks).
      <ii> A form to join the fandom. The submission of the form redirects you to your default mailbox.

@@ -1,8 +1,8 @@
 # ⚡ Fandom-Website
 
-👨🏻‍💻Created a Fan Page Website of the protagonist in the Anime Series 'My Hero Academia' using HTML &amp; CSS !!
-
 🔗https://swap-nova.github.io/Developed-a-Fandom-Website/
+
+👨🏻‍💻Created a Fan Page Website of the protagonist in the Anime Series 'My Hero Academia' using HTML &amp; CSS !!
 
 🌠First Created the main page by adding the basic information about the protagonist.
                              

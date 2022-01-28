@@ -6,7 +6,7 @@
                              
 🌠The Main Webpage also includes a hyperlink to the Original Fandom Website. 
 
-🌠Also, the main webpage code is basic CSS code used to set the background image.
+🌠Also, the main webpage code consists of basic CSS code used to set the background image.
 
 🌠Created Multiple Webpages which includes the: 
 
